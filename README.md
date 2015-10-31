@@ -3,3 +3,4 @@ Simple Android app for PizzaRoulette. Randomizes a pizza and toppings for that p
 
 Currently supported pizzerias:
 * Kryddan
+* Gunnesbo
