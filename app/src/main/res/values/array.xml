@@ -4,5 +4,6 @@
     <string-array name="pizzerias">
         <item>Kryddan</item>
         <item>Gunnesbo</item>
+        <item>Bellini</item>
     </string-array>
 </resources>
