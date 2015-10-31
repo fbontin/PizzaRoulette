@@ -37,6 +37,13 @@
         android:id="@+id/pizzerias"
         android:entries="@array/pizzerias"/>
 
+    <CheckBox
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Vegetarian"
+        android:id="@+id/vegetarian"
+        android:layout_marginTop="20dp"/>
+
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -52,7 +59,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Pizza: "
         android:id="@+id/pizzaTextView"
-        android:layout_marginTop="100dp"/>
+        android:layout_marginTop="70dp"/>
 
     <TextView
         android:layout_width="wrap_content"
